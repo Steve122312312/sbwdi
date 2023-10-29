@@ -1,0 +1,43 @@
+body{
+    background-color: aqua;
+  
+}
+
+
+#header_div{
+background-color: chartreuse;
+
+}
+.header_div p {
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    width: 130px;
+
+}
+
+.main_div button{
+    margin-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 3px;
+}
+
+p{
+    font-style: italic;
+    font-weight: 100;
+    font-size: small;
+}
+button{
+font-weight: 100;
+font-style: italic;
+margin-top: 20px;
+width: 80px;
+}
+#copy_right_footer{
+    Position: fixed;
+    Bottom:0; 
+    Width: 100%;
+}
